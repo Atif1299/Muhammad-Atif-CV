@@ -32,9 +32,6 @@ The website is structured as a comprehensive professional CV, including the foll
 
 ![image](https://github.com/user-attachments/assets/fd31f16e-c0b9-407f-8cee-6e80be130677)
 
-
-*Suggestion: Replace `placeholder_screenshot.png` with an actual screenshot of the website. You can name your screenshot file anything you like, just make sure to update the path in the README.*
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to:
